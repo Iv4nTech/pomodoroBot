@@ -1,5 +1,10 @@
 # Bot de Pomodoro para Discord
 
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)
+
 Bot de Discord con la tecnica Pomodoro que gestiona sesiones de estudio/trabajo. Se une al canal de voz del usuario, reproduce musica lofi durante el tiempo de concentracion, y avisa por voz y por texto al inicio y fin de cada sesion.
 
 ## Caracteristicas
